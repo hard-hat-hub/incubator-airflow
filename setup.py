@@ -22,7 +22,7 @@ import sys
 logger = logging.getLogger(__name__)
 
 # Kept manually in sync with airflow.__version__
-version = '1.7.1.3'
+version = '1.7.1.4'
 
 
 class Tox(TestCommand):
